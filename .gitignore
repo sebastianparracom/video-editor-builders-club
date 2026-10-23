@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+.DS_Store
+
+# Material pesado y personal de cada proyecto (el repo es público)
+proyectos/*/crudo/*
+proyectos/*/trabajo/*
+proyectos/*/borradores/*
+proyectos/*/final/*
+proyectos/*/audio/**/*.*
+!proyectos/**/.gitkeep
+*.mp4
+*.mov
+*.wav
+*.mp3

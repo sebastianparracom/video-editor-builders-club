@@ -1,0 +1,1 @@
+Hoy es un buen día para probar algo nuevo. Voy a hablar con calma, respirar entre las frases y mantener la mirada al frente. No necesito hacerlo perfecto; solo quiero encontrar un ritmo natural y sentirme cómodo frente a la cámara. Si me equivoco, hago una pausa, sonrío y continúo.
